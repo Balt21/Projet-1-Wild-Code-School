@@ -2,7 +2,6 @@
 ---
 ### 📑 Sommaire
 - [🎯 Objectifs](#objectifs)
-- [👥 Membres et rôles du groupe](#membres-et-rôles-du-groupe)
 - [⚙️ Choix Techniques](#choix-techniques)
 - [📜 Introduction](#introduction)
 - [⚠️ Difficultés rencontrées](#difficultés-rencontrées)
@@ -21,24 +20,6 @@
 
 **Secondaire:**
 - 🛠️ Créations de profils de scan personnalisés
----
-### **👥 Membres et rôles du groupe**
-<span id="membres-et-rôles-du-groupe"></span>  
-**Sprint 1**
-| Prénom    | Rôles              | Tâches                      | 
-| --------- | ------------------ | --------------------------- |
-| Tom       | Product Owner      | Doc Admin, NMAP, VM, IP     |
-| Balthazar | Membre             | NMAP                        |
-| Thomas    | Membre             | VM (Serveur), IP            |
-| Fabien    | Scrum Master       | Management                  |
-
-**Sprint 2**
-| Prénom    | Rôles              | Tâches                      | 
-| --------- | ------------------ | --------------------------- |
-| Tom       | Product Owner      | Doc Admin, NMAP, VM, IP     |
-| Balthazar | Membre             | NMAP, VM NMAP IP                        |
-| Thomas    | Membre             | VM (Serveur), IP, NMAP            |
-| Fabien    | Scrum Master       | Management                  |
 ---
 ### **⚙️ Choix Techniques**
 <span id="choix-techniques"></span>
